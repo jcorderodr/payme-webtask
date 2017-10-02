@@ -5,4 +5,4 @@ Using webtask+mongodb as backend, this service manages an user's debts by lettin
 *Requires passing a [secrets](https://webtask.io/docs/editor/secrets) with the mongoDb's Url*.
 
 
-### Check out the [UI Demo](http://jcordero.azurewebsites.net/payme-wt.html).
+### Check out the [UI Demo](https://jcorderodr.github.io/demo/payme-wt.html).
