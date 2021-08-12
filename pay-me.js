@@ -1,6 +1,6 @@
 "use latest";
 var mongoClient = require('mongodb').MongoClient;
-
+ 
 
 module.exports = function (context, main, res) { 
 
